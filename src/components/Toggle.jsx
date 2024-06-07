@@ -2,6 +2,7 @@ import { useState } from 'react';
 import ToggleItem from './ToggleItem';
 
 const Toggle = ({data}) => {
+  console.log("again ganged")
   const [active, setActive] = useState(null);
 
   const handleClick = (id) => {
