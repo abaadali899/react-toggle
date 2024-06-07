@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 # Project:  React Toggle Task
 created with vite
+# Download NVM:
+https://sourceforge.net/projects/nvm-for-windows.mirror/
 
-
-# Install with npm:
-
- npm install
-
-# Run with npm:
-
- npm run dev
+# Go to cmd and install 
+nvm install 22.2.0
+# Install node version:
+ npm install 22.2.0 
+# Run the project :
+npm run dev
 
 # Open http://localhost:5173/ in your browser 
  
